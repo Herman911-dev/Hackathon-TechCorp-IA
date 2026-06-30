@@ -1,5 +1,5 @@
 # 🤖 PROJET TECHCORP - Challenge IA 7h 🤖
-
+QUENTIN OTT / MATHIS CHABAULT / TOM BOULEC / HERMAN TONGO
 ## 📋 BRIEFING DE MISSION
 
 **Contexte :** Vous êtes la nouvelle équipe technique de TechCorp Industries. L'équipe précédente a été licenciée suite à des soupçons de compromission du code et des données. Vous devez reprendre leur travail, valider l'intégrité du projet et finaliser le déploiement.
@@ -115,6 +115,7 @@
 
 ---
 
+
 ### 🌐 **DEV WEB** - Le Développeur Interface
 
 **Mission Production :**
@@ -167,6 +168,7 @@ techcorp-ai-chat/
 ### 📚 **Ressource utile : [Déploiement rapide de modèles HuggingFace avec Triton Inference Server](https://github.com/triton-inference-server/tutorials/tree/main/Quick_Deploy/HuggingFaceTransformers)**
 ### 📖 **Dataset Médical : [Dataset Hugging Face pour POC](https://huggingface.co/datasets/ruslanmv/ai-medical-chatbot)**
 ---
+
 
 ## 🎯 MISSION FINALE
 
